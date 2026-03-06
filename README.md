@@ -1,0 +1,2 @@
+# curiosity--project-mnemosyne--the-memory-monetization-loop.
+A micro-trading kernel, hyper-optimized for sub-1% RAM footprint, designed to execute high-frequency, microscopic arbitrage on mempool transactions or DEX pools. Its sole purpose is to convert idle CPU cycles and a sliver of freed memory into a continuous, automated revenue stream. Profits are auto-converted to USDC and allocated first to an "Infra
